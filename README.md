@@ -1,5 +1,5 @@
 
-<img src="https://github.com/XiongJoJo/OFO/tree/master/Doc/ProjectImage/img00.png"
+<img src="/Doc/ProjectImage/img00.png"
 width=90% height=250px></img>
 
 
