@@ -1,5 +1,6 @@
 
-<img src="https://github.com/wujunyang/MobileProject/blob/master/ObjcUML/MobileProject.png" width=90% height=250px></img>
+<img src="https://github.com/XiongJoJo/OFO/Doc/ProjectImage/img00.png" width=90% height=250px></img>
+
 
 ## OFO介绍
 
@@ -110,7 +111,8 @@ end
 <img src="https://github.com/XiongJoJo/OFO/Doc/ProjectImage/img18.png" width=200px height=300px></img>
 
 ## 联系方式
-xiongjojo@icloud.com
+email: xiongjojo@icloud.com
+
 iOS湿货群:149986981
 
 
