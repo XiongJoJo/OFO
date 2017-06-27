@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Bplan_iOS.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/AFNetworking.framework/SC_Info/AFNetworking.sinf</string>
+		<string>Frameworks/CocoaLumberjack.framework/SC_Info/CocoaLumberjack.sinf</string>
+		<string>Frameworks/MBProgressHUD.framework/SC_Info/MBProgressHUD.sinf</string>
+		<string>Frameworks/MJRefresh.framework/SC_Info/MJRefresh.sinf</string>
+		<string>Frameworks/Masonry.framework/SC_Info/Masonry.sinf</string>
+		<string>Frameworks/ReactiveCocoa.framework/SC_Info/ReactiveCocoa.sinf</string>
+		<string>Frameworks/ReactiveViewModel.framework/SC_Info/ReactiveViewModel.sinf</string>
+		<string>Frameworks/SDWebImage.framework/SC_Info/SDWebImage.sinf</string>
+		<string>Frameworks/SensorsAnalyticsSDK.framework/SC_Info/SensorsAnalyticsSDK.sinf</string>
+		<string>Frameworks/YYModel.framework/SC_Info/YYModel.sinf</string>
+		<string>Frameworks/iOSBaseNetworkFramework.framework/SC_Info/iOSBaseNetworkFramework.sinf</string>
+		<string>SC_Info/Bplan_iOS.sinf</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+
+platform :ios, '7.0'
+
+target 'LBXScanDemo' do
+
+
+#pod 'LBXScan/All', path:"../"
+pod 'LBXScan/LBXZBar', path:"../"
+pod 'LBXScan/LBXNative', path:"../"
+pod 'LBXScan/LBXZXing', path:"../"
+pod 'LBXScan/UI', path:"../"
+
+end
+
+
+
+
+
+
