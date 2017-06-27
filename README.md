@@ -1,5 +1,5 @@
 
-<img src="/Doc/ProjectImage/img00.png" width=886px height=552px></img>
+<img src="/Doc/ProjectImage/img00.png" width=494px height=678px></img>
 
 
 ## OFO介绍
@@ -91,7 +91,7 @@ end
 
 ## 效果图
 
-<img src="/Doc/ProjectImage/img01.png" width=1697px height=1058px></img>
+<img src="/Doc/ProjectImage/img01.png" width=552px height=886px></img>
 <img src="/Doc/ProjectImage/img02.png" width=480px height=874px></img>
 <img src="/Doc/ProjectImage/img03.png" width=480px height=874px></img>
 <img src="/Doc/ProjectImage/img04.png" width=480px height=874px></img>
