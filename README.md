@@ -91,7 +91,7 @@ end
 
 ## 效果图
 
-<img src="/Doc/ProjectImage/img01.png" width=552px height=886px></img>
+<img src="/Doc/ProjectImage/img01.png" width=886px height=554px></img>
 <img src="/Doc/ProjectImage/img02.png" width=480px height=874px></img>
 <img src="/Doc/ProjectImage/img03.png" width=480px height=874px></img>
 <img src="/Doc/ProjectImage/img04.png" width=480px height=874px></img>
@@ -111,9 +111,9 @@ end
 <img src="/Doc/ProjectImage/img18.png" width=480px height=874px></img>
 
 ## 联系方式
-email: xiongjojo@icloud.com
+email: chorsx@gmail.com
 
-iOS湿货群:149986981
+两点半咖啡厅:149986981
 
 
 ## 许可
