@@ -113,7 +113,6 @@ end
 ## 联系方式
 email: chorsx@gmail.com
 
-两点半咖啡厅:149986981
 
 
 ## 许可
